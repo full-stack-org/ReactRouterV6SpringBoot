@@ -1,0 +1,4 @@
+{
+    "devURI":"http://localhost:8080",
+    "loginURI": "/login/v1/authenticate"
+}
